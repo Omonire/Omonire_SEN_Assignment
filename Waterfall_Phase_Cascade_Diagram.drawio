@@ -46,9 +46,6 @@
         <mxCell id="id15" parent="1" style="shape=note;backgroundOutline=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#BF9000;fontColor=#3F3000;fontSize=11;strokeWidth=1;" value="Integration &amp; Test&#xa;Report" vertex="1">
           <mxGeometry height="60" width="240" x="700" y="566" as="geometry" />
         </mxCell>
-        <mxCell id="puUYlMr-pbYTyIHHncFn-1" edge="1" parent="1" source="id16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="id18" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="id16" parent="1" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#1F4E79;strokeColor=#0F2E4C;fontColor=#FFFFFF;fontSize=14;fontStyle=1;strokeWidth=2;" value="5. Deployment" vertex="1">
           <mxGeometry height="72" width="320" x="300" y="700" as="geometry" />
         </mxCell>
@@ -174,6 +171,9 @@
         </mxCell>
         <mxCell id="id57" parent="1" style="text;html=1;fontSize=11;align=left;fontColor=#404040;" value="Controlled change approval" vertex="1">
           <mxGeometry height="24" width="280" x="432" y="1046" as="geometry" />
+        </mxCell>
+        <mxCell id="puUYlMr-pbYTyIHHncFn-1" edge="1" parent="1" source="id16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="id18" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
